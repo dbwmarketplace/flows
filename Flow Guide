@@ -1,8 +1,12 @@
 [
 {
-"HelpCommand": ["This command allows you to find information regarding other commands", "STR1KE#6182"]
+"Name": "HelpCommand"
+"Description": "This command allows you to find information regarding other commands"
+"Creator": "STR1KE#6182"
 }, 
 {
-"BaseCreate": ["Command tool used on BDZ", "Hectoliters#0595"]
+"Name": "BaseCreate"
+"Description": "Command tool used on BDZ"
+"Creator": "Hectoliters#0595"
 }
 ]
