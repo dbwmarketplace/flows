@@ -8,5 +8,10 @@
 "Name": "BaseCreate",
 "Description": "Command tool used on BDZ",
 "Creator": "Hectoliters#0595"
+},
+{
+"Name": "MusicSystem",
+"Description": "Plays, Loops and Stops music from youtube videos",
+"Creator": "Hectoliters#0595"
 }
 ]
