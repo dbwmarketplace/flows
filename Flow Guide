@@ -13,5 +13,10 @@
 "Name": "MusicSystem",
 "Description": "Plays, Loops and Stops music from youtube videos",
 "Creator": "Hectoliters#0595"
+},
+{
+"Name": "GiveawayCommand",
+"Description": "A giveaway command with seconds, minutes, hours, days, weeks and months as duration",
+"Creator": "STR1KE#6969"
 }
 ]
